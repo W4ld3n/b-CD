@@ -1,7 +1,7 @@
 # b-CD
 A barcode-scanner based audio player.
 
-![Logo](b-cd_logo.png)
+<img src="b-cd_logo.png" alt="Logo" style="width: 200px;"/>
 
 ## TODO
 - Playlist
