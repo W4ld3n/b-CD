@@ -3,7 +3,7 @@ import os.path
 import random
 
 #This is the source of your music directory
-music_dir = "/media/malte/mybook4/Music"
+music_dir = "/Path/to/music"
 
 barcode_mapping = "./barcode_mapping.tsv"
 def listDirs():
