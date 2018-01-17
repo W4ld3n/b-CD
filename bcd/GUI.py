@@ -36,6 +36,7 @@ class GUI:
         # Windows and background color
         self.stdscr.bkgd(curses.color_pair(1))
         self.stdscr.refresh()
+        self.init()
 
 
     def init(self):
